@@ -1,0 +1,131 @@
+switch(argument0){
+case "A":
+case "=":
+ return "000000"
+case "Q":
+ return "010000"
+case "g":
+ return "100000"
+case "w":
+ return "110000"
+case "B":
+ return "000001"
+case "R":
+ return "010001"
+case "h":
+ return "100001"
+case "x":
+ return "110001"
+case "C":
+ return "000010"
+case "S":
+ return "010010"
+case "i":
+ return "100010"
+case "y":
+ return "110010"
+case "D":
+ return "000011"
+case "T":
+ return "010011"
+case "j":
+ return "100011"
+case "z":
+ return "110011"
+case "E":
+ return "000100"
+case "U":
+ return "010100"
+case "k":
+ return "100100"
+case "0":
+ return "110100"
+case "F":
+ return "000101"
+case "V":
+ return "010101"
+case "l":
+ return "100101"
+case "1":
+ return "110101"
+case "G":
+ return "000110"
+case "W":
+ return "010110"
+case "m":
+ return "100110"
+case "2":
+ return "110110"
+case "H":
+ return "000111"
+case "X":
+ return "010111"
+case "n":
+ return "100111"
+case "3":
+ return "110111"
+case "I":
+ return "001000"
+case "Y":
+ return "011000"
+case "o":
+ return "101000"
+case "4":
+ return "111000"
+case "J":
+ return "001001"
+case "Z":
+ return "011001"
+case "p":
+ return "101001"
+case "5":
+ return "111001"
+case "K":
+ return "001010"
+case "a":
+ return "011010"
+case "q":
+ return "101010"
+case "6":
+ return "111010"
+case "L":
+ return "001011"
+case "b":
+ return "011011"
+case "r":
+ return "101011"
+case "7":
+ return "111011"
+case "M":
+ return "001100"
+case "c":
+ return "011100"
+case "s":
+ return "101100"
+case "8":
+ return "111100"
+case "N":
+ return "001101"
+case "d":
+ return "011101"
+case "t":
+ return "101101"
+case "9":
+ return "111101"
+case "O":
+ return "001110"
+case "e":
+ return "011110"
+case "u":
+ return "101110"
+case "+":
+ return "111110"
+case "P":
+ return "001111"
+case "f":
+ return "011111"
+case "v":
+ return "101111"
+case "/":
+ return "111111"
+}

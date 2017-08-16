@@ -1,0 +1,130 @@
+switch(argument0){
+case 0:
+ return "A"
+case 10000:
+ return "Q"
+case 100000:
+ return "g"
+case 110000:
+ return "w"
+case 1:
+ return "B"
+case 10001:
+ return "R"
+case 100001:
+ return "h"
+case 110001:
+ return "x"
+case 10:
+ return "C"
+case 10010:
+ return "S"
+case 100010:
+ return "i"
+case 110010:
+ return "y"
+case 11:
+ return "D"
+case 10011:
+ return "T"
+case 100011:
+ return "j"
+case 110011:
+ return "z"
+case 100:
+ return "E"
+case 10100:
+ return "U"
+case 100100:
+ return "k"
+case 110100:
+ return "0"
+case 101:
+ return "F"
+case 10101:
+ return "V"
+case 100101:
+ return "l"
+case 110101:
+ return "1"
+case 110:
+ return "G"
+case 10110:
+ return "W"
+case 100110:
+ return "m"
+case 110110:
+ return "2"
+case 111:
+ return "H"
+case 10111:
+ return "X"
+case 100111:
+ return "n"
+case 110111:
+ return "3"
+case 1000:
+ return "I"
+case 11000:
+ return "Y"
+case 101000:
+ return "o"
+case 111000:
+ return "4"
+case 1001:
+ return "J"
+case 11001:
+ return "Z"
+case 101001:
+ return "p"
+case 111001:
+ return "5"
+case 1010:
+ return "K"
+case 11010:
+ return "a"
+case 101010:
+ return "q"
+case 111010:
+ return "6"
+case 1011:
+ return "L"
+case 11011:
+ return "b"
+case 101011:
+ return "r"
+case 111011:
+ return "7"
+case 1100:
+ return "M"
+case 11100:
+ return "c"
+case 101100:
+ return "s"
+case 111100:
+ return "8"
+case 1101:
+ return "N"
+case 11101:
+ return "d"
+case 101101:
+ return "t"
+case 111101:
+ return "9"
+case 1110:
+ return "O"
+case 11110:
+ return "e"
+case 101110:
+ return "u"
+case 111110:
+ return "+"
+case 1111:
+ return "P"
+case 11111:
+ return "f"
+case 101111:
+ return "v"
+case 111111:
+ return "/"
+}
