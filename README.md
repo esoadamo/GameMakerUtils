@@ -1,0 +1,2 @@
+# GameMakerUtils
+Few usefull scripts
