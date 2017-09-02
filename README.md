@@ -15,6 +15,10 @@ splits a string into array by some character
 
 targeted on mobile platform, this will check if any of user's fingers is touching this object
 
+### strf
+replaces all %s in string with passed arguments
+example: show_debug_message(strf("My number: %s", 42))
+
 ### string_startsWith
 
 tests if string starts with a prefix
