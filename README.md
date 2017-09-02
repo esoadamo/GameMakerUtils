@@ -26,3 +26,8 @@ tests if string starts with a prefix
 ### base64files/
 
 can encode and decoded binary files to/from base64
+
+### gui_buttons/
+
+this scripts reacts on button presses from Draw GUI event. Up to 5 fingers at time supported.
+Call gui_press_step from step event, gui_press_create from create event, but **COPY** content of gui_press_event into every mouse event
